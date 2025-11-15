@@ -12,7 +12,7 @@ const execAsync = promisify(exec);
 
 // ==================== 所有配置已硬编码 ====================
 const UPLOAD_URL = '';
-const PROJECT_URL = '';
+const PROJECT_URL = 'p01--asd--7xrfqd4tfmwj.code.run';
 const AUTO_ACCESS = false;
 const FILE_PATH = './tmp';
 const SUB_PATH = 'feed';
